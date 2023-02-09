@@ -7,13 +7,12 @@ Node provides the backend environment for this application
 Express middleware is used to handle requests, routes
 Mongoose schemas to model the application data
 React for displaying UI components
-Redux to manage application's state
-Redux Thunk middleware to handle asynchronous redux actions
+ContextAPI to manage application's state
 
 Install
 Some basic Git commands are:
 
-$ git clone https://github.com/mohamedsamara/mern-ecommerce.git
+$ git clone https://github.com/Naushadansarinitw/MERN-ECOMMERCE.git
 $ cd project
 $ npm install
 
